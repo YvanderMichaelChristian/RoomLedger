@@ -7,8 +7,8 @@
 
 ## 🧑‍💻 Members
 
-1. Yvander Michael Christian - 263140700111041 - T1A (-)
-2.  - NIM - T1A (-)
+1. Yvander Michael Christian - 263140700111041 - T1A - Repository setup, Main menu (Looping), Create Feature & Function
+2. Salwa Zahratussyita - 263140700111014 - T1A - Update Feature, Delete Feature
 3.  - NIM - T1A (-)
 
 ## 🔧 How To Use
@@ -56,11 +56,11 @@ node dist/Hotel.js
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Salwa Zahratussyita</td>
+      <td>263140700111014</td>
+      <td>sheeezys@gmail.com</td>
+      <td>Update Readme</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>3</td>
