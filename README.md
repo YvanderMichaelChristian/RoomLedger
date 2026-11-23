@@ -70,13 +70,5 @@ node dist/Hotel.js
       <td>update readme</td>
       <td>-</td>
     </tr>
-    <tr>
-      <td>4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
