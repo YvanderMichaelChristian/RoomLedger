@@ -9,7 +9,7 @@
 
 1. Yvander Michael Christian - 263140700111041 - T1A - Repository setup, Main menu (Looping), Create Feature & Function
 2. Salwa Zahratussyita - 263140700111014 - T1A - Update Feature, Delete Feature
-3.  - NIM - T1A (-)
+3. Mohammad Prabu Pandu Dewanata - 26314070011043 - T1A - Read feature, Search feature
 
 ## 🔧 How To Use
 1. Clone Repository
@@ -64,11 +64,11 @@ node dist/Hotel.js
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mohammad Prabu Pandu Dewanata</td>
+      <td>263140700111043</td>
+      <td>mhmdprabudewa@student.ub.ac.id</td>
+      <td>update readme</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>4</td>
