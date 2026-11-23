@@ -59,7 +59,7 @@ node dist/Hotel.js
       <td>Salwa Zahratussyita</td>
       <td>263140700111014</td>
       <td>sheeezys@gmail.com</td>
-      <td>Update Readme</td>
+      <td>Update Feature, Delete Feature</td>
       <td>-</td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ node dist/Hotel.js
       <td>Mohammad Prabu Pandu Dewanata</td>
       <td>263140700111043</td>
       <td>mhmdprabudewa@student.ub.ac.id</td>
-      <td>update readme</td>
+      <td>Read Feature, Search Feature</td>
       <td>-</td>
     </tr>
   </tbody>
