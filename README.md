@@ -51,7 +51,8 @@ node dist/Hotel.js
       <td>Yvander Michael Christian</td>
       <td>263140700111041</td>
       <td>christianmichael017@gmail.com</td>
-      <td>Make Repository, Update Readme, Upload Initial Essential Project Files</td>
+      <td>Make Repository, Update Readme, Upload Initial Essential Project Files, Main Menu (Looping), Create Feature & Functions
+</td>
       <td>-</td>
     </tr>
     <tr>
