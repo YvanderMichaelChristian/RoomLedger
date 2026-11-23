@@ -30,7 +30,7 @@ npx tsc
 ```
 5. Run Program
 ```bash
-node dist/Hotel.js
+node dist/RoomLedger.js
 ```
 
 ## Team Contributions
