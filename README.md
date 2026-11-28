@@ -51,9 +51,9 @@ node dist/RoomLedger.js
       <td>Yvander Michael Christian</td>
       <td>263140700111041</td>
       <td>christianmichael017@gmail.com</td>
-      <td>Make Repository, Update Readme, Upload Initial Essential Project Files, Main Menu (Looping), Create Feature & Functions
+      <td>Make Repository, Readme, Upload Initial Essential Project Files, Main Menu (Looping), Create Feature & Functions
 </td>
-      <td>-</td>
+      <td>https://github.com/YvanderMichaelChristian/RoomLedger/pull/1</td>
     </tr>
     <tr>
       <td>2</td>
